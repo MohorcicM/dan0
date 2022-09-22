@@ -2,4 +2,4 @@ git test v0
 dadana naslednja sprememba
 
 
-
+testiranje checkouta na tag
