@@ -3,3 +3,4 @@ dadana naslednja sprememba
 
 
 
+make new branch devel
